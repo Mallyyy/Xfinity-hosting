@@ -3,7 +3,7 @@
     "name": "Normal",
     "main": "net.runelite.client.RuneLite",
     "bootstrap": "https://morpheus-rsps.com/morpheus-rsps.com/xfinity_ftp/client/live/bootstrap.json",
-    "bootstrapsig": "morpheus-rsps.com/xfinity_ftp/client/live/bootstrap.json.sha256",
+    "bootstrapsig": "https://morpheus-rsps.com/morpheus-rsps.com/xfinity_ftp/client/live/bootstrap.json.sha256",
     "tooltip": "The Latest most stable Client"
   }
 ]
