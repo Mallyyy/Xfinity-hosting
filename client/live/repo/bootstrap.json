@@ -82,6 +82,18 @@
   ],
   "artifacts": [
     {
+      "hash": "8bea2d76a8483a6a971412a42b2617cf3c1bb6f1461f0d8159b22f45c301df43",
+      "name": "game-0.0.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.22/kotlin-stdlib-jdk8-1.7.22.jar",
+      "size": 13950976
+    },
+    {
+      "hash": "7f7cb360f488d58db40e7474f4c3526f7b276bf707972cd4315d7d82786bcfc0",
+      "name": "runelite-0.0.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.22/kotlin-stdlib-jdk8-1.7.22.jar",
+      "size": 15454208
+    },
+    {
       "hash": "315102ff1cc2e706286b227147b8db23783db911a89298976a90a22e071cd117",
       "name": "kotlin-stdlib-jdk8-1.7.22.jar",
       "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.22/kotlin-stdlib-jdk8-1.7.22.jar",
