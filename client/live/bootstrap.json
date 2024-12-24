@@ -78,16 +78,16 @@
   ],
   "artifacts": [
     {
-      "hash": "411d5011d65a3f214730ce64ec45ad82b89d0ae4d5b1bc0e13ff4602ac787a42",
-      "name": "Crimson-Client.jar",
-      "path": "https://www.morpheus-rsps.com/resources/Crimson-Client.jar",
-      "size": 13947198
+      "hash": "297cdd64234d243c32d4671815b398c7cfa38b364271ca8009a8c2b159d54cd8",
+      "name": "game-0.0.1.jar",
+      "path": "https://raw.githubusercontent.com/Mallyyy/Xfinity-hosting/master/client/live/repo/game-0.0.1.jar",
+      "size": 13933264
     },
     {
-      "hash": "411d5011d65a3f214730ce64ec45ad82b89d0ae4d5b1bc0e13ff4602ac787a42",
-      "name": "Crimson-Client.jar",
-      "path": "https://www.morpheus-rsps.com/resources/Crimson-Client.jar",
-      "size": 13947198
+      "hash": "a82922ad85578190417f719b3e123dcf8028e905baaa7a0c2a32268f0240e9b1",
+      "name": "runelite-0.0.1.jar",
+      "path": "https://raw.githubusercontent.com/Mallyyy/Xfinity-hosting/master/client/live/repo/runelite-0.0.1.jar",
+      "size": 13933264
     },
     {
       "hash": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
@@ -512,8 +512,8 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "Crimson-Client.jar": "411d5011d65a3f214730ce64ec45ad82b89d0ae4d5b1bc0e13ff4602ac787a42",
-    "Crimson-Client.jar": "411d5011d65a3f214730ce64ec45ad82b89d0ae4d5b1bc0e13ff4602ac787a42",
+    "game-0.0.1.jar": "297cdd64234d243c32d4671815b398c7cfa38b364271ca8009a8c2b159d54cd8",
+    "runelite-0.0.1.jar": "a82922ad85578190417f719b3e123dcf8028e905baaa7a0c2a32268f0240e9b1",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
     "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
