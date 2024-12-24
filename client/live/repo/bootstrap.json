@@ -668,6 +668,8 @@
   ],
   "updates": [],
   "dependencyHashes": {
+    "game-0.0.1.jar": "8bea2d76a8483a6a971412a42b2617cf3c1bb6f1461f0d8159b22f45c301df43",
+    "runelite-0.0.1.jar": "7f7cb360f488d58db40e7474f4c3526f7b276bf707972cd4315d7d82786bcfc0",
     "kotlin-stdlib-jdk8-1.7.22.jar": "315102ff1cc2e706286b227147b8db23783db911a89298976a90a22e071cd117",
     "logback-classic-1.2.9.jar": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
     "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
