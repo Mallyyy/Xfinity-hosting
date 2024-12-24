@@ -1,6 +1,6 @@
 [
   {
-    "name": "Normal",
+    "name": "live",
     "main": "net.runelite.client.RuneLite",
     "bootstrap": "https://morpheus-rsps.com/morpheus-rsps.com/xfinity_ftp/client/live/bootstrap.json",
     "bootstrapsig": "https://morpheus-rsps.com/morpheus-rsps.com/xfinity_ftp/client/live/bootstrap.json.sha256",
