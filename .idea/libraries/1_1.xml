@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/client/live/repo/1.1/runelite-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/live/repo/1.1/Crimson-Client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
